@@ -17,7 +17,7 @@ Veja aqui. **[clicando aqui](livros-next)**.
 
 - [André Luíz F Souza](https://github.com/adventureandre) (Developer)
 - [ADVENTUREANDRE](https://github.com/adventureandre) (Team)
-- [All Contributors](https://github.com/) (This Rock)
+- [All Contributors](https://github.com/) (ALL)
 
 ## License
 
